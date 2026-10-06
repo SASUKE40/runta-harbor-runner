@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/hf-model-inference",
+        "ref": "sha256:01370f37e61286f920dfca1e471496640ebcc8d06e1cc48d874c790715dbd4ad",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "hf-model-inference__F42aeYu",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

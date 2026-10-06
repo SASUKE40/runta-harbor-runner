@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/llm-inference-batching-scheduler",
+        "ref": "sha256:a3bf47589118daec5124fe3689b4439802c805b2f4ed9d402a48ae73ca2fea67",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "llm-inference-batching-scheduler__CbS4WwE",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

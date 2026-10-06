@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/regex-log",
+        "ref": "sha256:802c16cfd132e6c457529cb864be5a757c1b23b6cadc57f2d01983cb0110292a",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "regex-log__6myTKmc",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/reshard-c4-data",
+        "ref": "sha256:a402bbfede73dd04168d697de9b9146026f69e14c8cd333b6a91fc87e44ecd4b",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "reshard-c4-data__yjg5YBt",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

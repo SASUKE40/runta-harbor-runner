@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/password-recovery",
+        "ref": "sha256:9b5c6bdce0cf03f075b21f6a7af5030b825ce07d7b16b37610f3964217ab84a4",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "password-recovery__KtYip23",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

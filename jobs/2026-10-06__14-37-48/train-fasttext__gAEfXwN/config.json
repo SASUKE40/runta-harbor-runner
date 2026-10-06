@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/train-fasttext",
+        "ref": "sha256:460fc0818971ec83545a76805267b65459128fad52e68c26a199a0d74022badb",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "train-fasttext__gAEfXwN",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

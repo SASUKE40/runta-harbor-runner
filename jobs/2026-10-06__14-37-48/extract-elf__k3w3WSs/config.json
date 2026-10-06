@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/extract-elf",
+        "ref": "sha256:1ef31d566be4fe3459d5368621ae7ef7a31b23ef675737e473bbc43c8c7b3fce",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "extract-elf__k3w3WSs",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

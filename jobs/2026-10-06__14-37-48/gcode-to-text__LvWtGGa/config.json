@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/gcode-to-text",
+        "ref": "sha256:7dd2af04820e71ecaba96bc493cbffa16317e96816c6c8003385c034adf6c23b",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "gcode-to-text__LvWtGGa",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

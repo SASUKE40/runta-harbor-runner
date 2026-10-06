@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/feal-differential-cryptanalysis",
+        "ref": "sha256:8ea56995fcc43fb94f0e4e15adb12dd28836bf3e9c766b2cc7ae78a7ce90341f",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "feal-differential-cryptanalysis__ErS3wp5",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

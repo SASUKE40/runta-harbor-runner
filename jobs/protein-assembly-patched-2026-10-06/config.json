@@ -1,0 +1,12 @@
+{
+    "job_name": "protein-assembly-patched-2026-10-06",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "tasks": [
+        {
+            "path": "tasks/protein-assembly"
+        }
+    ]
+}

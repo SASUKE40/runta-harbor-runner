@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/overfull-hbox",
+        "ref": "sha256:3c3b16e4b2de5fea90ca98db242b155a6843f9cc4dfd00be3479985a34bab4f7",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "overfull-hbox__4gNPZPU",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

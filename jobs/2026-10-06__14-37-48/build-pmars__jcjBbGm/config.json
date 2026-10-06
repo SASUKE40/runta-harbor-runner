@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/build-pmars",
+        "ref": "sha256:63f0449b276f081986740c941ea9372068b310a02b062c1e5e3400f575241893",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "build-pmars__jcjBbGm",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

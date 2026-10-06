@@ -1,0 +1,12 @@
+{
+    "task": {
+        "path": "tasks/protein-assembly"
+    },
+    "trial_name": "protein-assembly__XzYwJ3T",
+    "trials_dir": "jobs/protein-assembly-patched-2026-10-06",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "235e2c68-29af-4618-a5dd-4fce1b784320"
+}

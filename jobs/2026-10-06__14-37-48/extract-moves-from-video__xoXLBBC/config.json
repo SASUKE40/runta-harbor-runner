@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/extract-moves-from-video",
+        "ref": "sha256:168e2b9168511b8f8d32b1697f4703b08626203e7949ad396658f4bef7dee66e",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "extract-moves-from-video__xoXLBBC",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

@@ -1,0 +1,12 @@
+{
+    "job_name": "mcmc-sampling-stan-syntax-patched-2026-10-06",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "tasks": [
+        {
+            "path": "tasks/mcmc-sampling-stan"
+        }
+    ]
+}

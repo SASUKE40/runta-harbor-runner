@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/query-optimize",
+        "ref": "sha256:169496ea6843cb403b0860132675baf7aa0df0ac8b86221068e27d86395260f4",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "query-optimize__7XiWU5n",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

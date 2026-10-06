@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/sqlite-db-truncate",
+        "ref": "sha256:956f038b479cc3b9b493553b57a60a8ff4154526386c3914c0b99e93e1ab6e87",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "sqlite-db-truncate__Lf99aFy",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

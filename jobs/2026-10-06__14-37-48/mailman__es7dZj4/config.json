@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/mailman",
+        "ref": "sha256:831b3ed00807153963c05f91599443e4839099521d1d56db811c5547ab280dbe",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "mailman__es7dZj4",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

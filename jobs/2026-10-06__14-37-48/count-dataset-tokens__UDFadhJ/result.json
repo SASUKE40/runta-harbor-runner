@@ -1,0 +1,118 @@
+{
+    "id": "efdae432-8a6d-41ea-b89b-2230b169909a",
+    "task_name": "terminal-bench/count-dataset-tokens",
+    "trial_name": "count-dataset-tokens__UDFadhJ",
+    "trial_uri": "file:///Users/edward/code/SASUKE40/runta-harbor-runner/jobs/2026-10-06__14-37-48/count-dataset-tokens__UDFadhJ",
+    "task_id": {
+        "org": "terminal-bench",
+        "name": "count-dataset-tokens",
+        "ref": "sha256:cd0574ec8281f53854256acc93702ed1441407c0428849e1dd4f27e863c6b08a"
+    },
+    "source": "terminal-bench/terminal-bench-2-1",
+    "task_checksum": "0ab655881a4827d9ec8f9930d4c4c8827729b20c978c20ff9cc6317f90660b5c",
+    "config": {
+        "task": {
+            "path": null,
+            "git_url": null,
+            "git_commit_id": null,
+            "name": "terminal-bench/count-dataset-tokens",
+            "ref": "sha256:cd0574ec8281f53854256acc93702ed1441407c0428849e1dd4f27e863c6b08a",
+            "overwrite": false,
+            "download_dir": null,
+            "source": "terminal-bench/terminal-bench-2-1"
+        },
+        "trial_name": "count-dataset-tokens__UDFadhJ",
+        "trials_dir": "jobs/2026-10-06__14-37-48",
+        "install_only": false,
+        "timeout_multiplier": 1.0,
+        "agent_timeout_multiplier": null,
+        "verifier_timeout_multiplier": null,
+        "agent_setup_timeout_multiplier": null,
+        "environment_build_timeout_multiplier": null,
+        "agent": {
+            "name": "oracle",
+            "import_path": null,
+            "model_name": null,
+            "n_concurrent": null,
+            "concurrency_group": null,
+            "skills": [],
+            "override_timeout_sec": null,
+            "override_setup_timeout_sec": null,
+            "max_timeout_sec": null,
+            "resume_trajectory": false,
+            "load_trajectory": null,
+            "extra_allowed_hosts": [],
+            "kwargs": {},
+            "mcp_servers": []
+        },
+        "user_agent": null,
+        "environment": {
+            "type": "runta",
+            "import_path": null,
+            "force_build": false,
+            "delete": true,
+            "stream": false,
+            "cpu_enforcement_policy": "auto",
+            "memory_enforcement_policy": "auto",
+            "override_cpus": null,
+            "override_memory_mb": null,
+            "override_storage_mb": 32768,
+            "override_gpus": null,
+            "override_tpu": null,
+            "mounts": null,
+            "extra_docker_compose": [],
+            "kwargs": {},
+            "extra_allowed_hosts": []
+        },
+        "verifier": {
+            "override_timeout_sec": null,
+            "max_timeout_sec": null,
+            "disable": false
+        },
+        "artifacts": [],
+        "extra_instruction_paths": [],
+        "extra_instructions": [],
+        "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557",
+        "source_trial": null
+    },
+    "agent_info": {
+        "name": "oracle",
+        "version": "1.0.0",
+        "model_info": null
+    },
+    "agent_result": {
+        "n_input_tokens": null,
+        "n_cache_tokens": null,
+        "n_output_tokens": null,
+        "cost_usd": null,
+        "model_usage": null,
+        "rollout_details": null,
+        "metadata": null
+    },
+    "verifier_result": {
+        "rewards": {
+            "reward": 1.0
+        }
+    },
+    "verifier_environment_mode": "shared",
+    "exception_info": null,
+    "started_at": "2026-10-06T21:37:50.714638Z",
+    "finished_at": "2026-10-06T21:41:53.537014Z",
+    "environment_setup": {
+        "started_at": "2026-10-06T21:37:51.197832Z",
+        "finished_at": "2026-10-06T21:39:01.048472Z"
+    },
+    "agent_setup": {
+        "started_at": "2026-10-06T21:39:01.048489Z",
+        "finished_at": "2026-10-06T21:39:01.048515Z"
+    },
+    "agent_execution": {
+        "started_at": "2026-10-06T21:39:01.048560Z",
+        "finished_at": "2026-10-06T21:41:11.915295Z"
+    },
+    "verifier": {
+        "started_at": "2026-10-06T21:41:30.789354Z",
+        "finished_at": "2026-10-06T21:41:50.489249Z"
+    },
+    "step_results": null
+}

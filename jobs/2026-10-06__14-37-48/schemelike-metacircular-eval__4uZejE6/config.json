@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/schemelike-metacircular-eval",
+        "ref": "sha256:58130c2166c3115276dc8592f358e326ff2d81ea852e3d88636c82fd1dff57e6",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "schemelike-metacircular-eval__4uZejE6",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

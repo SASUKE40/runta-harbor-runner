@@ -1,0 +1,12 @@
+{
+    "task": {
+        "path": "tasks/mcmc-sampling-stan"
+    },
+    "trial_name": "mcmc-sampling-stan__MSwLUFu",
+    "trials_dir": "jobs/mcmc-sampling-stan-syntax-patched-2026-10-06",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "31d4119f-d31b-4ad1-8d7b-08c1dfd8439d"
+}

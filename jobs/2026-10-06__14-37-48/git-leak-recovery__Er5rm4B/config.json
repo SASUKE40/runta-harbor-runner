@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/git-leak-recovery",
+        "ref": "sha256:22a9ec10dbd4cd8b99477b70e1944103775ca41de9b9e0025ec4898cd17bd334",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "git-leak-recovery__Er5rm4B",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

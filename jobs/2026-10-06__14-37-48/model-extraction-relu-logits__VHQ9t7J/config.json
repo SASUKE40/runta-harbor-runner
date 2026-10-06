@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/model-extraction-relu-logits",
+        "ref": "sha256:1ae5045ad68b5d34c3398b612066a07c4a08b6dc330d28868ec4021e17c94b17",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "model-extraction-relu-logits__VHQ9t7J",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

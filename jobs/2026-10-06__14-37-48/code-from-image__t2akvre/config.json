@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/code-from-image",
+        "ref": "sha256:ef2907bb300d9b3352410c2a75dbf831278c187c073298371870ea9c83526f78",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "code-from-image__t2akvre",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}

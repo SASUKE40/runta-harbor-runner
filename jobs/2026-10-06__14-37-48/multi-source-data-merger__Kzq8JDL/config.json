@@ -1,0 +1,14 @@
+{
+    "task": {
+        "name": "terminal-bench/multi-source-data-merger",
+        "ref": "sha256:70367c38732e1beda7b229968a48d60242277c2fa4db91339c3f064c4c230d49",
+        "source": "terminal-bench/terminal-bench-2-1"
+    },
+    "trial_name": "multi-source-data-merger__Kzq8JDL",
+    "trials_dir": "jobs/2026-10-06__14-37-48",
+    "environment": {
+        "type": "runta",
+        "override_storage_mb": 32768
+    },
+    "job_id": "08452e8e-56ac-40ce-ade9-c4e40899c557"
+}
